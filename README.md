@@ -1,3 +1,10 @@
 # DSA_Data-Analysis-Portfolio
 My Data Analysis Portfolio—My journey with the Incubator Hub
-## During the Data Analysis Journey, I learnt different things with different tools
+### During the Data Analysis Journey, I got equipped with well of knowledges using different tools:
+## THE RIGOROUS ROAD OF EXCEL
+
+## THE UNLEVELED PLANE OF SQL THAT I LATER LEVELED
+Under this plane I equippped myself with the following using the following commands:
+
+## THE LEVELED PLANE OF POWER BI
+This is the plane upon which I can say I fly
