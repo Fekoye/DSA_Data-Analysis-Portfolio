@@ -91,8 +91,8 @@ Under this plane I equippped myself with the following using the following comma
 This is the plane upon which I can say I fly
 
 ## 📫 Let's Connect
-- 🌐 GitHub: (https://github.com/Fekoye
+- 🌐 GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Fekoye-blue?style=social&logo=github)](https://github.com/Fekoye)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347035222535)
-- 💼 LinkedIn:https://www.linkedin.com/in/felix-oyekola-105aaa116?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: oyekolafelixo@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Oyekola-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/felix-oyekola-105aaa116)
+- [![Email](https://img.shields.io/badge/Email-oyekolafelixo@gmail.com-blue?style=social&logo=gmail)](mailto:oyekolafelixo@gmail.com)
 > 💡 “Data speaks all languages — but someone still needs to interpret it. That’s where I come in.” – Felix Oyekola
