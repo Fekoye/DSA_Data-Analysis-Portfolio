@@ -12,11 +12,16 @@ Every number has a story. My job is to tell it.
 ## 💼 Work Experience
 ### 🟢 KMS Inventory SQL Case Study  
 *Role:* Data Analyst (SQL + Excel)  
-*Link:* [📁 View Files [Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]()
-– ](#)
-Screenshot of work done on SQL: <img width="884" alt="KMS queries-Results-Picture 7-Felix Oyekola" src="https://github.com/user-attachments/assets/34be3a7a-162f-455b-8860-d6a7ec8ed9b5" />
+*Link:* [📁 View Queries:[Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]()
 
-
+### Screenshot of work done on SQL: 
+<img width="884" alt="KMS queries-Results-Picture 7-Felix Oyekola" src="https://github.com/user-attachments/assets/c017b59a-aa9c-401c-9094-9383aa52b0bf" />
+<img width="908" alt="KMS queries-Results-Picture 6-Felix Oyekola" src="https://github.com/user-attachments/assets/839b2961-b55d-4ba3-9b30-637d412cf1f1" />
+<img width="681" alt="KMS queries-Results-Picture 5-Felix Oyekola" src="https://github.com/user-attachments/assets/9a18b223-d5fe-49af-99f3-98761fbc02bc" />
+<img width="960" alt="KMS queries-Results-Picture 4-Felix Oyekola" src="https://github.com/user-attachments/assets/3c8a41d6-38f5-4692-873d-6dc307a0a1f2" />
+<img width="959" alt="KMS queries-Results-Picture 3-Felix Oyekola" src="https://github.com/user-attachments/assets/a637efca-a4d1-4487-ad69-8015b23805ec" />
+<img width="959" alt="KMS queries-Results-Picture 2-Felix Oyekola" src="https://github.com/user-attachments/assets/24255b4a-0c35-4d76-8feb-4a70cb9a7f1e" />
+<img width="960" alt="KMS queries-Results-Picture 1-Felix Oyekola" src="https://github.com/user-attachments/assets/376ecf39-a718-42e5-b9d4-ea4c6fcba5fa" />
 As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in *SQL Server*, wrote performance-optimized queries, and exported insights to Excel for review.
 
 *Key Contributions:*
@@ -24,17 +29,13 @@ As part of a business analytics case for a retail company, I conducted deep-dive
 - Assessed shipping costs vs. order priorities
 - Joined and filtered data across multiple dimensions (customer, time, geography)
 - Wrote reusable SQL scripts, exported result sets, and documented the entire process
-
-👉 You’ll find all scripts and analysis files once uploaded.
-
+👉 You’ll find all scripts and analysis in the above Screenshot.
 ---
-
 ### 🟡 Power BI – Palmoria HR Analytics  
 *Role:* Power BI Analyst  
 *Link:* [📁 View Dashboard – Coming Soon](#)
 
 Designed and developed an interactive *HR analytics dashboard* for a manufacturing firm. This project focused on *gender equity, **salary compliance, and **performance-based bonus allocation*.
-
 *Dashboard Highlights:*
 - Gender distribution across departments and regions
 - Salary bands and minimum wage law compliance
