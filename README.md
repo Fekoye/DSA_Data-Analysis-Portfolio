@@ -12,7 +12,10 @@ Every number has a story. My job is to tell it.
 ## 💼 Work Experience
 ### 🟢 KMS Inventory SQL Case Study  
 *Role:* Data Analyst (SQL + Excel)  
-*Link:* [📁 View Files – Coming Soon](#)
+*Link:* [📁 View Files [Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]()
+– ](#)
+Screenshot of work done on SQL: <img width="884" alt="KMS queries-Results-Picture 7-Felix Oyekola" src="https://github.com/user-attachments/assets/34be3a7a-162f-455b-8860-d6a7ec8ed9b5" />
+
 
 As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in *SQL Server*, wrote performance-optimized queries, and exported insights to Excel for review.
 
