@@ -17,12 +17,13 @@ Under this plane I equippped myself with the following using the following exper
 *Link:* [📁 View Queries:[Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]()
 
 Author: Felix Oyekola | Multilingual Data Analyst (English • French • Yoruba)
-📘 Overview
+
+📘Overview of Kultra Mega Stores (KMS)
 Kultra Mega Stores (KMS) is a retail and office supply company operating in multiple regions. This project explores their operational data from 2009 to 2012 to uncover patterns in:
-Sales performance by category and geography
-Customer segmentation and profitability
-Shipping method efficiency and alignment with priority
-The analysis was completed using SQL (SQL Server syntax) and supported by Excel for documentation and visualization.
+- Sales performance by category and geography
+- Customer segmentation and profitability
+- Shipping method efficiency and alignment with priority
+(The analysis was completed using SQL (SQL Server syntax) and supported by Excel for documentation.)
 ## 🎯 Case Scenarios & Business Questions
 ### ✅ Case Scenario I: Sales & Shipping
 - Which product category had the highest sales?
