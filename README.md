@@ -48,14 +48,16 @@ File Description : The file Contains all 11 SQL Server-compatible queries at the
 <img width="959" alt="KMS queries-Results-Picture 3-Felix Oyekola" src="https://github.com/user-attachments/assets/a637efca-a4d1-4487-ad69-8015b23805ec" />
 <img width="959" alt="KMS queries-Results-Picture 2-Felix Oyekola" src="https://github.com/user-attachments/assets/24255b4a-0c35-4d76-8feb-4a70cb9a7f1e" />
 <img width="960" alt="KMS queries-Results-Picture 1-Felix Oyekola" src="https://github.com/user-attachments/assets/376ecf39-a718-42e5-b9d4-ea4c6fcba5fa" />
-##- As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in SQL Server, wrote performance-optimized queries, and exported insights to Excel for review.
+
+## As part of a business analytics case for a retail company, I conducted deep-dive SQL analysis across customer segments, sales regions, product categories, and shipping methods. I worked directly in SQL Server, wrote performance-optimized queries, and exported insights to Excel for review.
 *Key Contributions:*
 - Identified top and bottom performing customers and product categories
 - Assessed shipping costs vs. order priorities
 - Joined and filtered data across multiple dimensions (customer, time, geography)
 - Wrote reusable SQL scripts, exported result sets, and documented the entire process
 👉 You’ll find all scripts and analysis in the above Screenshot.
-## 💡 Strategic Recommendations to Management
+
+### 💡 Strategic Recommendations to Management
 1. 🎯 Segment and Retarget
 - Send personalized promotions to low-revenue customers based on category
 - Create discount bundles tied to minimum order values
@@ -69,6 +71,7 @@ File Description : The file Contains all 11 SQL Server-compatible queries at the
 5. 📬 Follow-Up & Re-engagement
 - Send surveys or emails to understand why these customers buy less
 - Offer incentives to complete feedback
+
 ## 2 THE LEVELED PLANE OF POWER BI
 This is the plane upon which I can say I fly
 🟡 Power BI – Palmoria HR Analytics  
