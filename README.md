@@ -85,26 +85,20 @@ File Description : The file Contains all 11 SQL Server-compatible queries at the
 This is the plane upon which I can say I fly
 🟡 Power BI – Palmoria HR Analytics 
 ### 1. File for analysis: [Palmoria_HR_Analysis_Report-Felix Oyekola.xlsx](https://github.com/user-attachments/files/20970631/Palmoria_HR_Analysis_Report-Felix.Oyekola.xlsx)
+#### PROJECT B 🟢  
+I Designed and developed an interactive *HR analytics dashboard* for a manufacturing firm. This project focused on *gender equity, **salary compliance, and **performance-based bonus allocation*.
 
 *Role:* Power BI Analyst  
 📌 **Tools**: Power BI, Excel  
 📌 **Focus**: Gender equality, salary compliance, bonus allocation  
-📌 **What I Did**:
+📌 **What I Did**: (*Dashboard Highlights:*)
+---
 - Visualized gender distribution by region and department
 - Highlighted performance ratings and salary gaps by gender
 - Analyzed $90,000 minimum wage compliance
 - Calculated bonuses and total compensation using DAX
 📊 Interactive dashboard with slicers
 ### Files for Dashboard [📁 View Dashboard – [Palmoria files for Project submission DSA-Felix O. Oyekola.pdf](https://github.com/user-attachments/files/20970589/Palmoria.files.for.Project.submission.DSA-Felix.O.Oyekola.pdf)](#)
-
-#### PROJECT B 🟢  
-I Designed and developed an interactive *HR analytics dashboard* for a manufacturing firm. This project focused on *gender equity, **salary compliance, and **performance-based bonus allocation*.
-*Dashboard Highlights:*
-- Gender distribution across departments and regions
-- Salary bands and minimum wage law compliance
-- Bonus allocations based on performance ratings
-- Use of slicers, custom visuals, and DAX formulas
-This Power BI report helped senior leadership understand workforce gaps at a glance.
 ---
 ## 3 THE RIGOROUS ROAD OF *EXCEL*
 🔵 Excel Project: Amazon Product Review Analysis  
@@ -129,6 +123,7 @@ This project showcases how Excel can be both analytical and visual when used rig
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347035222535)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felix%20Oyekola-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/felix-oyekola-105aaa116)
 - [![Email](https://img.shields.io/badge/Email-oyekolafelixo@gmail.com-blue?style=social&logo=gmail)](mailto:oyekolafelixo@gmail.com)
+
 
 
 > 💡 “Data speaks all languages — but someone still needs to interpret it. That’s where I come in.” – Felix Oyekola
