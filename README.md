@@ -18,7 +18,7 @@ Every number has a story. My job is to tell it.
 ---
 #### During the Data Analysis Journey, I got equipped with well of knowledges using different tools:
 ## 1 THE UNLEVELED PLANE OF SQL THAT I LATER LEVELED
-Under this plane I equippped myself with the following using the following experiences:
+Under this plane of knowledge called DSA Incubator, I wass equippped with the following knowledges and I got the the following experiences:
 ### 💼 Work Experience
 #### PROJECT A 🟢 KMS Inventory SQL Case Study  
 *Role:* Data Analyst (SQL + Excel)  
