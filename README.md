@@ -15,8 +15,7 @@ Under this plane I equippped myself with the following using the following exper
 #### PROJECT A 🟢 KMS Inventory SQL Case Study  
 *Role:* Data Analyst (SQL + Excel)  
 *Link:* [📁 View Queries:[Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]()
-📦 KMS Inventory SQL Case Study
-Repository: KMS_Inventory_SQL_Case_Study
+
 Author: Felix Oyekola | Multilingual Data Analyst (English • French • Yoruba)
 📘 Overview
 Kultra Mega Stores (KMS) is a retail and office supply company operating in multiple regions. This project explores their operational data from 2009 to 2012 to uncover patterns in:
@@ -60,7 +59,9 @@ This is the plane upon which I can say I fly
 🟡 Power BI – Palmoria HR Analytics  
 *Role:* Power BI Analyst  
 *Link:* [📁 View Dashboard – ](#)
-Designed and developed an interactive *HR analytics dashboard* for a manufacturing firm. This project focused on *gender equity, **salary compliance, and **performance-based bonus allocation*.
+
+#### PROJECT B 🟢  
+I Designed and developed an interactive *HR analytics dashboard* for a manufacturing firm. This project focused on *gender equity, **salary compliance, and **performance-based bonus allocation*.
 *Dashboard Highlights:*
 - Gender distribution across departments and regions
 - Salary bands and minimum wage law compliance
