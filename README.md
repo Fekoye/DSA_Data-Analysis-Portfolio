@@ -55,6 +55,20 @@ File Description : The file Contains all 11 SQL Server-compatible queries at the
 - Joined and filtered data across multiple dimensions (customer, time, geography)
 - Wrote reusable SQL scripts, exported result sets, and documented the entire process
 👉 You’ll find all scripts and analysis in the above Screenshot.
+## 💡 Strategic Recommendations to Management
+1. 🎯 Segment and Retarget
+- Send personalized promotions to low-revenue customers based on category
+- Create discount bundles tied to minimum order values
+2. 🚚 Set Free Shipping Thresholds
+- Encourage larger orders by offering free delivery over ₦X value
+3. 📦 Bundle Slow-Moving Inventory
+- Offer value bundles including products commonly ordered by bottom 10
+4. 📈 Limit Excessive Discounts
+- Review if these customers receive high discounts with little ROI
+- Replace with point-based reward systems
+5. 📬 Follow-Up & Re-engagement
+- Send surveys or emails to understand why these customers buy less
+- Offer incentives to complete feedback
 ## 2 THE LEVELED PLANE OF POWER BI
 This is the plane upon which I can say I fly
 🟡 Power BI – Palmoria HR Analytics  
