@@ -14,7 +14,7 @@ Under this plane I equippped myself with the following using the following exper
 ### 💼 Work Experience
 #### PROJECT A 🟢 KMS Inventory SQL Case Study  
 *Role:* Data Analyst (SQL + Excel)  
-*Link:* [📁 View Responses and Queries:[Uploading KMS Case Study Responses-Felix Oyekola.ssmssln…]
+*Link:* [📁 View Responses and Queries:[KMS_Case_Study_Executed_Results_Felix O. Oyekola.xlsx](https://github.com/user-attachments/files/20970405/KMS_Case_Study_Executed_Results_Felix.O.Oyekola.xlsx)
 
 Author: Felix Oyekola | Multilingual Data Analyst (English • French • Yoruba)
 
