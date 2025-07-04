@@ -99,6 +99,8 @@ I Designed and developed an interactive *HR analytics dashboard* for a manufactu
 - Calculated bonuses and total compensation using DAX
 📊 Interactive dashboard with slicers
 ### Files for Dashboard [📁 View Dashboard – [Palmoria files for Project submission DSA-Felix O. Oyekola.pdf](https://github.com/user-attachments/files/20970589/Palmoria.files.for.Project.submission.DSA-Felix.O.Oyekola.pdf)](#)
+DASHBOARD OVERVIEW SCREENSHOT:
+<img width="915" alt="Dashboard Overview_Felix Oyekola" src="https://github.com/user-attachments/assets/40b2cc76-a272-49df-90a4-2859cadf7732" />
 ---
 ## 3 THE RIGOROUS ROAD OF *EXCEL*
 🔵 Excel Project: Amazon Product Review Analysis  
